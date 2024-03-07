@@ -1,0 +1,114 @@
+.title{
+    background-image: url(./Recursos/Imagenes/pattern.jpeg);
+    font-family: Helvetica;
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0%;
+}
+
+.section-2{
+    font-family: helvetica;
+    text-align: center;
+}
+
+.section-2 h2{
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 100px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.section-2 img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.section-2 h3{
+    color: mediumspringgreen;
+}
+
+.section-2 p{
+    font-family: Helvetica;
+    padding: 20px 100px;
+    margin: 20px 50px 10px 50px;
+}
+
+.section-2 strong{
+    font-weight: bold;
+    color: mediumspringgreen;
+}
+
+.section-3{
+    font-family: helvetica;
+    text-align: center;
+}
+.section-3 h2{
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 100px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.section-3 img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.section-3 h3{
+    color: lightcoral;
+}
+
+.section-3 p{
+    padding: 20px 100px;
+    margin: 20px 50px 10px 50px;
+}
+
+.section-3 strong{
+    font-weight: bold;
+    color: lightcoral;
+}
+
+.section-4{
+    font-family: helvetica;
+    text-align: center;
+}
+
+.section-4 h2{
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 100px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.section-4 img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.section-4 h3{
+    color: skyblue;
+}
+
+.section-4 p{
+    padding: 20px 100px;
+    margin: 20px 50px 10px 50px;
+}
+
+.section-4 strong{
+    font-weight: bold;
+    color: skyblue;
+}
